@@ -2,7 +2,7 @@ package gitproject;
 
 import java.util.Scanner;
 
-public class FizzBuzz {
+public class paiza_2_1 {
 
 	public static void main(String[] args) {
 
